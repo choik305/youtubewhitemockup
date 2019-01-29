@@ -1,0 +1,107 @@
+
+.youtube-logo{
+  color: red;
+}
+
+.search-bar{
+  color: grey;
+
+}
+.upload-section{
+  color: grey;
+
+}
+
+.row{
+  width: 60%;
+  display: inline-block;
+}
+
+.container{
+  height: 100vh;
+}
+
+.nav-and-pic {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid green;
+  height: 90%;
+}
+
+.left {
+  width: 15%;
+  border: 1px solid red;
+}
+.right {
+  width: 80%;
+  border: 1px solid blue;
+}
+
+.leftlist {
+  list-style-type: none;
+}
+
+/* #backgroundimage {
+  background-image: url("");
+  height: 100px;
+  width: 100px;
+} */
+
+.image img{
+  border: 1px solid red;
+  height: 450px;
+}
+
+.details {
+  border: 1px solid purple;
+  height: 25%;
+}
+
+.detailrow {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid yellow;
+  height: 50%;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.SubscribeandLikes {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid red;
+  height: 50%;
+}
+
+/*
+.detailrow2 {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid yellow;
+  height: 50%;
+} */
+
+.landscapeimage1 avatar{
+  display: inline-block!important;
+  width: 5%;
+
+}
+
+.comments {
+  display: flex;
+  justify-content: right;
+  border: 1px solid purple;
+  height: 30%;
+  width: 15%;
+}
